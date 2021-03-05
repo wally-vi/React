@@ -1,0 +1,19 @@
+{
+  "name": "react_native_taskapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wally-vi/React.git"
+  },
+  "author": "w",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wally-vi/React/issues"
+  },
+  "homepage": "https://github.com/wally-vi/React#readme"
+}
